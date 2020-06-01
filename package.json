@@ -1,0 +1,13 @@
+{
+	"name":"Dropbox Chooser",
+	"version":"2.0.0",
+	"description":"This plugin allows your application to use the Dropbox Chooser",
+	"cordova":{
+		"id":"uk.co.cv-library.plugins.DropboxChooser",
+		"platforms":["android"]
+	},
+	"repository":{
+		"type":"git",
+		"url":"git+https://github.com/ByeByeBlues/phonegap-plugin-dropbox-chooser"
+	}
+}
